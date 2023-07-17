@@ -8,6 +8,7 @@ namespace HelloWorld
 {
     internal class Program
     {
+        //여기주석추가
         static void Main(string[] args)
         {
             Console.WriteLine("HelloWorld");
